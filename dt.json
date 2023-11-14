@@ -2,7 +2,7 @@
     "ads": {
         
              "comment": [
-            "Amazing Game I really love it Only Up: skibidi 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
+            "Amazing Game I really love it Only Up: Fruit 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
         ],   
         
             "rate_comment": true,
@@ -48,13 +48,13 @@
 
             "ad_score_amount" : 1,
             "ad_game_minutes" : 1,
-            "ad_int_interval" : 2,
+            "ad_int_interval" : 1,
             "score_rating_reward" : 3,
 
             "orientation": "portrait",
 
-            "game_name": "Shapeshifting: Transformation Race",
-            "game_cover": "https://image.winudf.com/v2/image1/Y29tLmdhbWUuc2hhcGUuc2hpZnRfYmFubmVyXzE2MTc4MTQ1MjhfMDI1/banner.jpg?fakeurl=1",
+            "game_name": "Watermelon Merge: Fruit Drop",
+            "game_cover": "https://img.tapimg.net/market/images/f2bc094a314cb19ceb687faa51ae2ded.png?imageView2/0/w/720/h/405/q/80/format/jpg/interlace/1/ignore-error/1",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
             "game_link": "https://html5.gamemonetize.co/akghm0sf9rllxjvrwlulgirv8635gekt/",
 
